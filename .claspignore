@@ -1,0 +1,15 @@
+# Abaikan semua file secara default
+**/**
+
+# Sertakan hanya file yang didukung Google Apps Script
+!appsscript.json
+!Code.gs
+!Index.html
+
+# Abaikan file lokal & dokumentasi
+app.js
+gas-client.js
+style.css
+README.md
+assets/**
+scratch/**
